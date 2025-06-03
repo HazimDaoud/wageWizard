@@ -15,11 +15,8 @@ A portfolio-ready data science project that predicts whether an individual’s a
 * [Usage](#usage)
 * [Repository Structure](#repository-structure)
 * [Highlights & Results](#highlights--results)
-* [Future Improvements](#future-improvements)
 * [Technologies Used](#technologies-used)
 * [Author](#author)
-* [License](#license)
-
 ---
 
 ## Project Overview
