@@ -135,12 +135,10 @@ By walking through each step in a Jupyter Notebook, this project highlights best
 wage-wizard/
 ├── wageWizard.ipynb        ← Main Jupyter Notebook (code + narrative)
 ├── requirements.txt        ← Python dependencies
-├── README.md               ← This file
-
+├── README.md               ← Readme
 ```
 
-* \`\`:
-  Contains the entire end-to-end workflow:
+* Contains the entire end-to-end workflow:
 
   * Data loading & cleaning
   * EDA & hypothesis testing
@@ -178,27 +176,6 @@ wage-wizard/
 
 ---
 
-## Future Improvements
-
-* **Ensemble Methods**
-
-  * Implement Random Forest or Gradient Boosting to potentially boost accuracy and generalization.
-
-* **Feature Engineering**
-
-  * Group rare categories into “Other” to reduce sparsity in one-hot encoding.
-  * Create binning for continuous variables (age buckets, income brackets).
-
-* **Model Explainability**
-
-  * Incorporate SHAP values or LIME explanations for deeper local interpretability.
-
-* **Deployment Demo**
-
-  * Add a simple Flask or Streamlit app to allow interactive input and real-time predictions.
-
----
-
 ## Technologies Used
 
 * **Python 3.8+**
@@ -217,7 +194,6 @@ wage-wizard/
 
 * Email: [hazim.daoud@example.com](mailto:daoud.hazim98@gmail.com)
 
-Feel free to open an issue or submit a pull request if you find bugs, have questions, or want to suggest improvements.
 
 ---
 
