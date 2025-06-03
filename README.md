@@ -129,7 +129,7 @@ By walking through each step in a Jupyter Notebook, this project highlights best
 ## Repository Structure
 
 ```
-wage-wizard/
+wageWizard/
 ├── wageWizard.ipynb        ← Main Jupyter Notebook (code + narrative)
 ├── requirements.txt        ← Python dependencies
 ├── README.md               ← Readme
